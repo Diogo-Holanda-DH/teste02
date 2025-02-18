@@ -69,10 +69,10 @@
         <mxCell id="hch1gG18QH-EERP9HJ0n-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hch1gG18QH-EERP9HJ0n-1" target="hch1gG18QH-EERP9HJ0n-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hch1gG18QH-EERP9HJ0n-30" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hch1gG18QH-EERP9HJ0n-30" value="Gerenciar&lt;div&gt;inventário&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="440" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="hch1gG18QH-EERP9HJ0n-31" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hch1gG18QH-EERP9HJ0n-31" value="Gerar relatório" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="550" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="hch1gG18QH-EERP9HJ0n-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.764;entryY=0.057;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hch1gG18QH-EERP9HJ0n-5" target="hch1gG18QH-EERP9HJ0n-30">
